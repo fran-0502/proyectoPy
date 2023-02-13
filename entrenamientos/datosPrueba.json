@@ -1,0 +1,42 @@
+[
+    {
+        "texto": "Gama es una empresa importante en el sector",
+        "entidad": "ORG"
+    },
+    {
+        "texto": "El gerente de Gama es muy competente",
+        "entidad": "CARGO"
+    },
+    {
+        "texto": "Los cajeros de la empresa Gama son eficientes",
+        "entidad": "CARGO"
+    },
+    {
+        "texto": "El pasante de Gama aprende mucho en su trabajo",
+        "entidad": "CARGO"
+    },
+    {
+        "texto": "gama es reconocida por sus productos de alta calidad",
+        "entidad": "ORG"
+    },
+    {
+        "texto": "El charcutero de gama es muy habilidoso",
+        "entidad": "CARGO"
+    },
+    {
+        "texto": "La empresa Gama contrata a los mejores profesionales",
+        "entidad": "ORG"
+    },
+    {
+        "texto": "El gerente general de gama toma las decisiones clave",
+        "entidad": "CARGO"
+    },
+    {
+        "texto": "Gama es una compañía líder en su sector",
+        "entidad": "ORG"
+    },
+    {
+        "texto": "Los trabajadores de gama son muy comprometidos con su trabajo",
+        "entidad": "ORG"
+    }
+]
